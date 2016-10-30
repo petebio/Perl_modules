@@ -5,8 +5,8 @@ package My::Binomial;
 # Functions to calculate the binomial coefficient (n choose k).                                                  #
 #                                                                                                                #
 # Functions: factorial - Calculate the factorial for some number.                                                #
-#		     Useful for large numbers.                                                                           #
-#	         choose - Calculate the binomial coefficient.                                                        #
+#		     Useful for large numbers.                                                                   #
+#	         choose - Calculate the binomial coefficient.                                                    #
 #                                                                                                                #
 # Author: Peter Keane - peterakeane@gmail.com                                                                    #
 #                                                                                                                #
