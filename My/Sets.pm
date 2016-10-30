@@ -5,7 +5,7 @@ package My::Sets;
 # Functions to calculate simple set similarity metrics.                                                          #
 #                                                                                                                #
 # Functions: jaccard - Calculates the jaccard index of two arrays.                                               #
-#	     	 simpson - Calculate the Simpson coefficient of two arrays.                                          #
+#	     simpson - Calculate the Simpson coefficient of two arrays.                                          #
 #    	     match - Calculates the match coefficient of two arrays.                                             #
 #                                                                                                                #
 # Author: Peter Keane - peterakeane@gmail.com                                                                    #
