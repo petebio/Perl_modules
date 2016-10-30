@@ -5,7 +5,7 @@ package My::SimpleStats;
 # Calculate simple descriptive statistics for two numerical vectors.                                             #
 #                                                                                                                #
 # Functions: array_mean - Calculate the mean of two arrays.                                                      #
-#	         array_median - Calculate the median of two arrays.                                                  #
+#	         array_median - Calculate the median of two arrays.                                              #
 #            array_sd - Calculate the standard deviation of two arrays.                                          #
 #            calc_cv - Calculate the coefficient of variation of an array.                                       #
 #                                                                                                                #
