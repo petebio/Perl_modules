@@ -5,10 +5,10 @@ package My::Pearson;
 # Module to calculate the Pearson correlation for two numeric vectors.                                           #
 #                                                                                                                #
 # Functions: pearson - Calculates the Pearson's correlation.                                                     #
-#	         pcor - Calculate the first order partial Pearson's correlation                                      #
-#		      for two vectors x and y, controlling for z.                                                        #
-#	         second_order_pcor - Calculate the second order partial Pearson's correlation                        #
-#		      for two vectors x and y, controlling for w and z.                                                  #
+#	         pcor - Calculate the first order partial Pearson's correlation                                  #
+#		      for two vectors x and y, controlling for z.                                                #
+#	         second_order_pcor - Calculate the second order partial Pearson's correlation                    #
+#		      for two vectors x and y, controlling for w and z.                                          #
 #                                                                                                                #
 # Author: Peter Keane - peterakeane@gmail.com                                                                    #
 #                                                                                                                #
