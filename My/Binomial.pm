@@ -5,8 +5,8 @@ package My::Binomial;
 # Functions to calculate the binomial coefficient (n choose k).                                                  #
 #                                                                                                                #
 # Functions: factorial - Calculate the factorial for some number.                                                #
-#		     Useful for large numbers.                                                                   #
-#	         choose - Calculate the binomial coefficient.                                                    #
+#            Useful for large numbers.                                                                           #
+#            choose - Calculate the binomial coefficient.                                                        #
 #                                                                                                                #
 # Author: Peter Keane - peterakeane@gmail.com                                                                    #
 #                                                                                                                #
@@ -47,7 +47,7 @@ sub choose{
 
 	if($k > $n){
 		print STDERR "ERROR in choose: k must be less than n\n";
-        return "NA";
+		return "NA";
 	}
 
 	my$x = factorial_BigInt($n)/(factorial_BigInt($k) * factorial_BigInt($n - $k));
